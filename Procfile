@@ -1,1 +1,1 @@
-web: unicorn routes: app
+web: unicorn routes:app
